@@ -5,7 +5,7 @@ public class Greeting {
         String idea = "I like Java!";
         String probel = " ";
         System.out.println(idea);
-        idea = idea + probel +"But I am just learning.";
+        idea = idea + probel + "But I am just learning.";
         int year = 2022;
         idea = idea + probel + year;
         idea += probel + "год.";
